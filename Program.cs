@@ -9,6 +9,8 @@ namespace ConsoleApp
 			Console.WriteLine("taras");
 
 			Console.WriteLine("taras");
+
+			Console.WriteLine("taras");
 		}
 	}
 }
